@@ -36,6 +36,6 @@
   "main": "twitterstream.js",
   "dependencies": {
     "lodash": "^4.16.4",
-    "twit": "^2.2.5"
+    "twit": "^2.2.9"
   }
 }
